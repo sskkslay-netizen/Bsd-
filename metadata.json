@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bungou Study Tales",
+  "description": "A gacha-based study RPG inspired by BSD. Earn coins by studying, pull cards, and chat with AI characters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
